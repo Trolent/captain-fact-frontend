@@ -53,11 +53,11 @@ Elle possède bien souvent un service de presse et un service statistique, sourc
 
 ### Les États et collectivités
 
-Les communiqués et rapports produits par les États, les parlements, les ministères et les  administrations territoriales (région, département, municipalités) ou les rapports et statistiques fournis par les différentes agences et institutions publiques.
+Les communiqués et rapports produits par les États, les parlements, les ministères et les  administrations territoriales (région, département, municipalités) ou les rapports et statistiques fournis par les différentes agences et autres administrations publiques.
 
 *Ex : [le ministère des Armées](https://www.defense.gouv.fr/), [la région Auvergne-Rhône-Alpes](https://www.auvergnerhonealpes.fr/), [l’INSEE](https://www.insee.fr/), …*
 
-```(!) Les communiqués auront tendance à relayer le point de vue de leur gouvernement ou leur mairie et la rigueur méthodologique est variable.```
+```(!) Les communiqués auront tendance à relayer le point de vue de leur institution et la rigueur méthodologique est variable en fonction des sujets.```
 
 ### Les agences de presse
 
